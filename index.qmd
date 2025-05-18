@@ -7,27 +7,27 @@ listing:
   - id: "resources"
     contents: data/resources.json
     sort: name
-    template: gallery.ejs.md
+    template: gallery.ejs
   - id: "projects"
     contents: data/projects.yaml
     sort: name
-    template: gallery.ejs.md
+    template: gallery.ejs
   - id: "research-projects"
     contents: data/research-projects.yaml
     sort: name
-    template: gallery.ejs.md
+    template: gallery.ejs
   - id: "groups"
     contents: data/groups.yaml
     sort: name
-    template: gallery.ejs.md
+    template: gallery.ejs
   - id: "software"
     contents: data/software.yaml
     sort: name
-    template: gallery.ejs.md
+    template: gallery.ejs
   - id: "events"
     contents: data/events.yaml
     sort: name
-    template: gallery.ejs.md
+    template: gallery.ejs
 ---
 
 ## Resources
