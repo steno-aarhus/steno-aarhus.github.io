@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-filename','listing-file-modified',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-description','listing-homepageUrl','listing-name',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-filename","listing-file-modified"],
+      searchColumns: ["listing-description","listing-homepageUrl","listing-name"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -340,9 +340,17 @@ window.Quarto = {
 <p>These are websites that contain resources or documentation for doing things at Steno Aarhus.</p>
 <div id="listing-resources" class="quarto-listing quarto-listing-container-custom">
 <dl>
-<dt><a href="https://github.com/steno-aarhus/"></a></dt>
+<dt><a href="https://steno-aarhus.github.io/registers-project-database/">registers-project-database</a></dt>
 <dd>
-
+<p>SDCA’s project database on Denmark Statistics</p>
+</dd>
+<dt><a href="https://steno-aarhus.github.io/research/">research</a></dt>
+<dd>
+<p>Documentation on common research activities done within Steno Diabetes Center Aarhus.</p>
+</dd>
+<dt><a href="https://steno-aarhus.github.io/ukbAid/">ukbAid</a></dt>
+<dd>
+<p>Aid researchers who work on the UKB RAP.</p>
 </dd>
 </dl>
 <div class="listing-no-matching d-none">No matching items</div>
