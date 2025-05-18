@@ -1,5 +1,7 @@
 #!/bin/sh
 
+mkdir -p data
+
 # Get the details of the repositories, to later use to include in the website.
 get_website_repo_details() {
   gh repo list steno-aarhus \
