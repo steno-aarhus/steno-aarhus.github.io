@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "gallery.ejs.html",
-    "href": "gallery.ejs.html",
-    "title": "SDCA GitHub Pages",
-    "section": "",
-    "text": "&lt;% for (const item of items) { %&gt; &lt;%if (item.homepageUrl) { %&gt; &lt;%= item.name %&gt; &lt;% } else { %&gt; &lt;%= item.name %&gt; &lt;% } %&gt;\n: &lt;%= item.description %&gt; &lt;% } %&gt;"
-  },
-  {
     "objectID": "LICENSE.html",
     "href": "LICENSE.html",
     "title": "SDCA GitHub Pages",
