@@ -1,0 +1,15 @@
+project:
+  type: sdca-theme
+  pre-render: sh ./_build.sh
+
+website:
+  title: "SDCA GitHub Pages"
+  site-url: "https://steno-aarhus.github.io/"
+  repo-url: "https://github.com/steno-aarhus/steno-aarhus.github.io"
+
+format: sdca-theme-html
+
+editor: 
+  markdown:
+    wrap: 72
+    canonical: true
