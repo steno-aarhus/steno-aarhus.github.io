@@ -5,7 +5,7 @@ description: |
   activities that are hosted on GitHub.
 listing:
   - id: "resources"
-    contents: data/resources.json
+    contents: data/resources.yaml
     sort: name
     template: gallery.ejs
   - id: "projects"
