@@ -1,6 +1,9 @@
 name: Build website
 
 on:
+  schedule:
+    # Every day at 3.30 hr (some time at night)
+    - cron: '30 3 * * *' 
   push:
     branches:
       - main
