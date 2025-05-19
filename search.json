@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "These are websites that contain resources or documentation for doing things at Steno Aarhus.\n\n\nregisters-project-database\n\nSDCA’s project database on Denmark Statistics\n\nresearch\n\nDocumentation on common research activities done within Steno Diabetes Center Aarhus.\n\nukbAid\n\nAid researchers who work on the UKB RAP.\n\n\nNo matching items"
+    "text": "These pages are targeted to researchers, PhD students, and external collaborators at Steno Aarhus. If you are looking for information about the Steno Diabetes Center Aarhus that is aimed at the general public, please visit the Steno Diabetes Center Aarhus website."
   },
   {
     "objectID": "index.html#resources",
     "href": "index.html#resources",
     "title": "Welcome!",
-    "section": "",
-    "text": "These are websites that contain resources or documentation for doing things at Steno Aarhus.\n\n\nregisters-project-database\n\nSDCA’s project database on Denmark Statistics\n\nresearch\n\nDocumentation on common research activities done within Steno Diabetes Center Aarhus.\n\nukbAid\n\nAid researchers who work on the UKB RAP.\n\n\nNo matching items"
+    "section": "Resources",
+    "text": "Resources\nThese are websites that contain resources or documentation for doing things at Steno Aarhus.\n\n\nregisters-project-database\n\nSDCA’s project database on Denmark Statistics\n\nresearch\n\nDocumentation on common research activities done within Steno Diabetes Center Aarhus.\n\nukbAid\n\nAid researchers who work on the UKB RAP.\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#groups",
@@ -60,6 +60,6 @@
     "href": "index.html#external-projects",
     "title": "Welcome!",
     "section": "External projects",
-    "text": "External projects\n\n\n\n\n\n\nTip\n\n\n\nIs your project not listed here? Let us know by opening an issue and giving us the link to your project!\n\n\n\nDP-Next\n\nDP-Next is a project aimed at developing a sustainably effective strategy for prevention of Type 2 Diabetes in Denmark, Greenland and the Faroe Islands.\n\nSeedcase Project\n\nSeedcase will take you from structuring and documenting your data, being able to browse and share it, to tending to projects using the data."
+    "text": "External projects\n\n\n\n\n\n\nNote\n\n\n\nIs your project not listed here? Let us know by opening an issue and giving us the link to your project!\n\n\n\nDP-Next\n\nDP-Next is a project aimed at developing a sustainably effective strategy for prevention of Type 2 Diabetes in Denmark, Greenland and the Faroe Islands.\n\nSeedcase Project\n\nSeedcase will take you from structuring and documenting your data, being able to browse and share it, to tending to projects using the data."
   }
 ]
