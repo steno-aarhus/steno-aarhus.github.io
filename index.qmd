@@ -1,5 +1,6 @@
 ---
 title: "Welcome!"
+toc: false
 description: |
   This page acts as a landing page for all projects or other activities at Steno
   Aarhus that are hosted on GitHub.
