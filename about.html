@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="This page acts as a landing page for all projects or other activities at Steno Aarhus that are hosted on GitHub.">
 
-<title>Welcome! – SDCA GitHub Pages</title>
+<title>About – SDCA GitHub Pages</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +29,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -68,209 +65,11 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-resources .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-description','listing-homepageUrl','listing-name',{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: ["listing-description","listing-homepageUrl","listing-name"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-resources'] = new List('listing-resources', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-projects .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-description','listing-homepageUrl','listing-name',{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: ["listing-description","listing-homepageUrl","listing-name"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-projects'] = new List('listing-projects', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-research-projects .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-description','listing-homepageUrl','listing-name',{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: ["listing-description","listing-homepageUrl","listing-name"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-research-projects'] = new List('listing-research-projects', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-groups .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-description','listing-homepageUrl','listing-name',{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: ["listing-description","listing-homepageUrl","listing-name"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-groups'] = new List('listing-groups', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-software .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-description','listing-homepageUrl','listing-name',{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: ["listing-description","listing-homepageUrl","listing-name"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-software'] = new List('listing-software', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-events .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-description','listing-homepageUrl','listing-name',{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: ["listing-description","listing-homepageUrl","listing-name"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-events'] = new List('listing-events', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -288,7 +87,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link active" href="./about.html" aria-current="page"> 
 <span class="menu-text">About</span></a>
   </li>  
 </ul>
@@ -304,20 +103,24 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#contact" id="toc-contact" class="nav-link active" data-scroll-target="#contact">Contact</a></li>
+  <li><a href="#ownership" id="toc-ownership" class="nav-link" data-scroll-target="#ownership">Ownership</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/steno-aarhus/steno-aarhus.github.io/edit/main/about.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/steno-aarhus/steno-aarhus.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/steno-aarhus/steno-aarhus.github.io/blob/main/about.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Welcome!</h1>
+<h1 class="title">About</h1>
 </div>
 
-<div>
-  <div class="description">
-    <p>This page acts as a landing page for all projects or other activities at Steno Aarhus that are hosted on GitHub.</p>
-  </div>
-</div>
 
 
 <div class="quarto-title-meta">
@@ -332,176 +135,28 @@ window.Quarto = {
 </header>
 
 
-<div class="callout callout-style-simple callout-note no-icon">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-body-container">
-<p>These pages are targeted to researchers, PhD students, and external collaborators at Steno Aarhus. If you are looking for information about the Steno Diabetes Center Aarhus that is aimed at the general public, please visit the <a href="https://www.stenoaarhus.dk/">Steno Diabetes Center Aarhus website</a>.</p>
-</div>
-</div>
-</div>
-<section id="resources" class="level2">
-<h2 class="anchored" data-anchor-id="resources">Resources</h2>
-<p>These are websites that contain resources or documentation for doing things at Steno Aarhus.</p>
-<div id="listing-resources" class="quarto-listing quarto-listing-container-custom">
-<dl>
-<dt><a href="https://steno-aarhus.github.io/registers-project-database/">registers-project-database</a></dt>
-<dd>
-<p>SDCA’s project database on Denmark Statistics</p>
-</dd>
-<dt><a href="https://steno-aarhus.github.io/research/">research</a></dt>
-<dd>
-<p>Documentation on common research activities done within Steno Diabetes Center Aarhus.</p>
-</dd>
-<dt><a href="https://steno-aarhus.github.io/ukbAid/">ukbAid</a></dt>
-<dd>
-<p>Aid researchers who work on the UKB RAP.</p>
-</dd>
-</dl>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
+<section id="contact" class="level2">
+<h2 class="anchored" data-anchor-id="contact">Contact</h2>
+<p>For questions about Steno Aarhus in general, please contact either:</p>
+<ul>
+<li>Inger Hornbech (<a href="mailto:inger.hornbech@rm.dk" class="email">inger.hornbech@rm.dk</a>): Secretary</li>
+<li>Julie Knudsen (<a href="mailto:julie.knudsen@rm.dk" class="email">julie.knudsen@rm.dk</a>): Research secretary</li>
+</ul>
+<p>For questions about this or any other Steno GitHub website, about Steno GitHub in general, or if you want to setup a new Steno GitHub website, please contact:</p>
+<ul>
+<li>Luke W. Johnston (<a href="mailto:lwjohnst@clin.au.dk" class="email">lwjohnst@clin.au.dk</a>): Team Leader of the <a href="https://seedcase-project.org">Seedcase Project</a>.</li>
+<li>Signe Kirk Brødbæk (<a href="mailto:signekb@clin.au.dk" class="email">signekb@clin.au.dk</a>): Research software engineer in the Seedcase Project.</li>
+</ul>
 </section>
-<section id="groups" class="level2">
-<h2 class="anchored" data-anchor-id="groups">Groups</h2>
-<p>These are websites for topic-specific groups that run events or activities as well as providing a space to get help and having discussions.</p>
-<div id="listing-groups" class="quarto-listing quarto-listing-container-custom">
-<dl>
-<dt><a href="https://steno-aarhus.github.io/epi/">epi</a></dt>
-<dd>
-<p>Content, events, discussions and information for those doing epidemiology at Steno Aarhus.</p>
-</dd>
-<dt><a href="https://steno-aarhus.github.io/epi-stats/">epi-stats</a></dt>
-<dd>
-<p>A space for discussions and events for statistics in epidemiology.</p>
-</dd>
-<dt><a href="https://steno-aarhus.github.io/register-space">register-space</a></dt>
-<dd>
-<p>A space for peer support for those doing research on the Danish registers</p>
-</dd>
-</dl>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-</section>
-<section id="projects" class="level2">
-<h2 class="anchored" data-anchor-id="projects">Projects</h2>
-<p>These are larger projects that span several years that researchers have individual research projects on.</p>
-<div id="listing-projects" class="quarto-listing quarto-listing-container-custom">
-<dl>
-<dt><a href="https://steno-aarhus.github.io/ON-LiMiT/">ON-LiMiT</a></dt>
-<dd>
-<p>Remission af type 2 diabetes med kost og motion</p>
-</dd>
-<dt><a href="https://steno-aarhus.github.io/cgm-ap/">cgm-ap</a></dt>
-<dd>
-<p>National afprøvning af glukosesensorer til type 2-diabetes: Afprøvning af sensorer i almen praksis</p>
-</dd>
-<dt><a href="https://steno-aarhus.github.io/darter-project/">darter-project</a></dt>
-<dd>
-<p>Denmark Statistics registers for the project: Interplay between diabetes and intergenerational transmission of health determinants over the life course</p>
-</dd>
-<dt><a href="https://steno-aarhus.github.io/evakom/">evakom</a></dt>
-<dd>
-<p>Effektevaluering af kommunale sundhedstilbud til borgere med Type 2-Diabetes</p>
-</dd>
-<dt><a href="https://steno-aarhus.github.io/internationalization">internationalization</a></dt>
-<dd>
-<p>Building greater connection with Latin America and Steno Aarhus.</p>
-</dd>
-<dt><a href="https://steno-aarhus.github.io/prodiap/">prodiap</a></dt>
-<dd>
-<p>PRODIAP: Diabetes spørgeskema til personer med type 2-diabetes i almen praksis</p>
-</dd>
-<dt><a href="https://steno-aarhus.github.io/steno-free/">steno-free</a></dt>
-<dd>
-<p>Et projekt med fokus på tidlig emplementering af teknolgi til voksne med nykonstateret type 1 diabetes.</p>
-</dd>
-</dl>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-</section>
-<section id="research-projects" class="level2">
-<h2 class="anchored" data-anchor-id="research-projects">Research Projects</h2>
-<p>These are individual research projects, most of which don’t have their own website. Rather, this points to the GitHub repository for the project.</p>
-<div id="listing-research-projects" class="quarto-listing quarto-listing-container-custom">
-<dl>
-<dt><a href="https://github.com/steno-aarhus/lega">lega</a></dt>
-<dd>
-<p>Substituting meat, poultry, and fish with legumes and risk of gallbladder diseases in the UK Biobank</p>
-</dd>
-<dt><a href="https://github.com/steno-aarhus/legliv">legliv</a></dt>
-<dd>
-<p>Substitution of red meat with legumes and risk of primary liver cancer in UK Biobank participants: A prospective cohort study</p>
-</dd>
-<dt><a href="https://github.com/steno-aarhus/leha">leha</a></dt>
-<dd>
-<p>Legume consumption and hepatobiliary disease in the UK Biobank.</p>
-</dd>
-</dl>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-</section>
-<section id="software" class="level2">
-<h2 class="anchored" data-anchor-id="software">Software</h2>
-<p>These are software projects developed by those at Steno Aarhus.</p>
-<div id="listing-software" class="quarto-listing quarto-listing-container-custom">
-<dl>
-<dt><a href="https://steno-aarhus.github.io/osdc/">osdc</a></dt>
-<dd>
-<p>Open-Source Diabetes Classifier: an R package to classify diabetes status in Danish registers</p>
-</dd>
-</dl>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-</section>
-<section id="events" class="level2">
-<h2 class="anchored" data-anchor-id="events">Events</h2>
-<p>These are websites for events that are either upcoming or have already been completed.</p>
-<div id="listing-events" class="quarto-listing quarto-listing-container-custom">
-<dl>
-<dt><a href="https://steno-aarhus.github.io/IDEG-mediation-course/">IDEG-mediation-course</a></dt>
-<dd>
-<p>IDEG 2025 workshop on Mediation Analysis and Directed Acyclic Graphs</p>
-</dd>
-<dt><a href="https://steno-aarhus.github.io/diabetes-demography-seminar/">diabetes-demography-seminar</a></dt>
-<dd>
-<p>Aarhus Diabetes Demography Symposium 2025</p>
-</dd>
-<dt><a href="https://analysis-of-mechanisms.netlify.app">mediation-analysis-course</a></dt>
-<dd>
-<p>Modern mediation analysis for basic, clinical and epidemiological research in diabetes and endocrinology</p>
-</dd>
-</dl>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-</section>
-<section id="external-projects" class="level2">
-<h2 class="anchored" data-anchor-id="external-projects">External projects</h2>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Is your project not listed here? Let us know by opening an <a href="https://github.com/steno-aarhus/steno-aarhus.github.io/issues/new">issue</a> and giving us the link to your project!</p>
-</div>
-</div>
-<dl>
-<dt><a href="https://dp-next.github.io/">DP-Next</a></dt>
-<dd>
-<p>DP-Next is a project aimed at developing a sustainably effective strategy for prevention of Type 2 Diabetes in Denmark, Greenland and the Faroe Islands.</p>
-</dd>
-<dt><a href="https://seedcase-project.org/">Seedcase Project</a></dt>
-<dd>
-<p>Seedcase will take you from structuring and documenting your data, being able to browse and share it, to tending to projects using the data.</p>
-</dd>
-</dl>
-
+<section id="ownership" class="level2">
+<h2 class="anchored" data-anchor-id="ownership">Ownership</h2>
+<p>The Steno Aarhus GitHub Organisation has four people with “owner” roles, meaning they have full administrative access to everything in the organisation. These people are:</p>
+<ul>
+<li>Daniel Ibsen (<a href="mailto:dbi@ph.au.dk" class="email">dbi@ph.au.dk</a>)</li>
+<li>Julie Knudsen (<a href="mailto:julie.knudsen@rm.dk" class="email">julie.knudsen@rm.dk</a>)</li>
+<li>Luke W. Johnston (<a href="mailto:lwjohnst@clin.au.dk" class="email">lwjohnst@clin.au.dk</a>)</li>
+<li>Signe Kirk Brødbæk (<a href="mailto:signekb@clin.au.dk" class="email">signekb@clin.au.dk</a>)</li>
+</ul>
 
 
 </section>
@@ -930,7 +585,7 @@ Note
 </a>
   </li>  
 </ul>
-    <div class="toc-actions"><ul><li><a href="https://github.com/steno-aarhus/steno-aarhus.github.io/edit/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/steno-aarhus/steno-aarhus.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/steno-aarhus/steno-aarhus.github.io/blob/main/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/steno-aarhus/steno-aarhus.github.io/edit/main/about.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/steno-aarhus/steno-aarhus.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/steno-aarhus/steno-aarhus.github.io/blob/main/about.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
