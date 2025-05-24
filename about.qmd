@@ -1,0 +1,39 @@
+---
+title: "About"
+---
+
+## Contact
+
+For questions about Steno Aarhus in general, please contact either:
+
+-   Inger Hornbech
+    ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}):
+    Secretary
+-   Julie Knudsen
+    ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}):
+    Research secretary
+
+For questions about this or any other Steno GitHub website, about Steno
+GitHub in general, or if you want to setup a new Steno GitHub website,
+please contact:
+
+-   Luke W. Johnston
+    ([lwjohnst\@clin.au.dk](mailto:lwjohnst@clin.au.dk){.email}): Team
+    Leader of the [Seedcase Project](https://seedcase-project.org).
+-   Signe Kirk Brødbæk
+    ([signekb\@clin.au.dk](mailto:signekb@clin.au.dk){.email}): Research
+    software engineer in the Seedcase Project.
+
+## Ownership
+
+The Steno Aarhus GitHub Organisation has four people with "owner" roles,
+meaning they have full administrative access to everything in the
+organisation. These people are:
+
+-   Daniel Ibsen ([dbi\@ph.au.dk](mailto:dbi@ph.au.dk){.email})
+-   Julie Knudsen
+    ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email})
+-   Luke W. Johnston
+    ([lwjohnst\@clin.au.dk](mailto:lwjohnst@clin.au.dk){.email})
+-   Signe Kirk Brødbæk
+    ([signekb\@clin.au.dk](mailto:signekb@clin.au.dk){.email})
