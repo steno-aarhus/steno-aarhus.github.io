@@ -102,8 +102,30 @@ and giving us the link to your project!
     strategy for prevention of Type 2 Diabetes in Denmark, Greenland and
     the Faroe Islands.
 
+[ON-LiMiT](https://onlimit.dk/)
+
+:   ON LiMiT (Optimal Non-pharmacological LifeStyle Modifications in
+    people with Type 2 diabetes), is a large randomized controlled
+    intervention study, conducted in collaboration with the Steno
+    Diabetes Centre in Aarhus, Odense and Copenhagen, as well as the
+    University of Copenhagen and Bispebjerg Hospital. The trial aims to
+    investigate whether it is possible to achieve and maintain remission
+    of type 2 diabetes through weight loss and lifestyle changes.
+
 [Seedcase Project](https://seedcase-project.org/)
 
-:   Seedcase will take you from structuring and documenting your data,
-    being able to browse and share it, to tending to projects using the
-    data.
+:   The Seedcase Project builds software that will support you in
+    structuring and documenting your data, being able to browse and
+    share it, to tending to projects using the data.
+
+## External groups
+
+[Machine learning with a clinical purpose](https://hulmanlab.org/)
+
+:   This is an interdisciplinary researcher group in machine learning
+    and clinical prediction at Steno Diabetes Center Aarhus, affiliated
+    to the Department of Public Health at Aarhus University, Denmark. We
+    share a passion for data science and believe that applying machine
+    learning methods to multimodal data from epidemiological cohorts and
+    the healthcare sector can provide clinical insights and more
+    comprehensive profiling of disease risk.
