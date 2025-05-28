@@ -53,7 +53,7 @@
     "href": "index.html#projects",
     "title": "Welcome!",
     "section": "Projects",
-    "text": "Projects\nThese are larger projects that span several years that researchers have individual research projects on.\n\n\nON-LiMiT\n\nRemission af type 2 diabetes med kost og motion\n\ncgm-ap\n\nNational afprøvning af glukosesensorer til type 2-diabetes: Afprøvning af sensorer i almen praksis\n\ndarter-project\n\nDenmark Statistics registers for the project: Interplay between diabetes and intergenerational transmission of health determinants over the life course\n\nevakom\n\nEffektevaluering af kommunale sundhedstilbud til borgere med Type 2-Diabetes\n\ninternationalization\n\nBuilding greater connection with Latin America and Steno Aarhus.\n\nprodiap\n\nPRODIAP: Diabetes spørgeskema til personer med type 2-diabetes i almen praksis\n\nsteno-free\n\nEt projekt med fokus på tidlig emplementering af teknolgi til voksne med nykonstateret type 1 diabetes.\n\n\nNo matching items"
+    "text": "Projects\nThese are larger projects that span several years that researchers have individual research projects on.\n\n\ncgm-ap\n\nNational afprøvning af glukosesensorer til type 2-diabetes: Afprøvning af sensorer i almen praksis\n\ndarter-project\n\nDenmark Statistics registers for the project: Interplay between diabetes and intergenerational transmission of health determinants over the life course\n\nevakom\n\nEffektevaluering af kommunale sundhedstilbud til borgere med Type 2-Diabetes\n\ninternationalization\n\nBuilding greater connection with Latin America and Steno Aarhus.\n\nprodiap\n\nPRODIAP: Diabetes spørgeskema til personer med type 2-diabetes i almen praksis\n\nsteno-free\n\nEt projekt med fokus på tidlig emplementering af teknolgi til voksne med nykonstateret type 1 diabetes.\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#research-projects",
@@ -81,6 +81,13 @@
     "href": "index.html#external-projects",
     "title": "Welcome!",
     "section": "External projects",
-    "text": "External projects\n\n\n\n\n\n\nNote\n\n\n\nIs your project not listed here? Let us know by opening an issue and giving us the link to your project!\n\n\n\nDP-Next\n\nDP-Next is a project aimed at developing a sustainably effective strategy for prevention of Type 2 Diabetes in Denmark, Greenland and the Faroe Islands.\n\nSeedcase Project\n\nSeedcase will take you from structuring and documenting your data, being able to browse and share it, to tending to projects using the data."
+    "text": "External projects\n\n\n\n\n\n\nNote\n\n\n\nIs your project not listed here? Let us know by opening an issue and giving us the link to your project!\n\n\n\nDP-Next\n\nDP-Next is a project aimed at developing a sustainably effective strategy for prevention of Type 2 Diabetes in Denmark, Greenland and the Faroe Islands.\n\nON-LiMiT\n\nON LiMiT (Optimal Non-pharmacological LifeStyle Modifications in people with Type 2 diabetes), is a large randomized controlled intervention study, conducted in collaboration with the Steno Diabetes Centre in Aarhus, Odense and Copenhagen, as well as the University of Copenhagen and Bispebjerg Hospital. The trial aims to investigate whether it is possible to achieve and maintain remission of type 2 diabetes through weight loss and lifestyle changes.\n\nSeedcase Project\n\nThe Seedcase Project builds software that will support you in structuring and documenting your data, being able to browse and share it, to tending to projects using the data."
+  },
+  {
+    "objectID": "index.html#external-groups",
+    "href": "index.html#external-groups",
+    "title": "Welcome!",
+    "section": "External groups",
+    "text": "External groups\n\nMachine learning with a clinical purpose\n\nThis is an interdisciplinary researcher group in machine learning and clinical prediction at Steno Diabetes Center Aarhus, affiliated to the Department of Public Health at Aarhus University, Denmark. We share a passion for data science and believe that applying machine learning methods to multimodal data from epidemiological cohorts and the healthcare sector can provide clinical insights and more comprehensive profiling of disease risk."
   }
 ]
