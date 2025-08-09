@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://steno-aarhus.github.io/index.html</loc>
+    <lastmod>2025-08-09T04:02:31.859Z</lastmod>
+  </url>
+  <url>
     <loc>https://steno-aarhus.github.io/LICENSE.html</loc>
-    <lastmod>2025-08-08T04:28:59.810Z</lastmod>
+    <lastmod>2025-08-09T04:02:31.853Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/about.html</loc>
-    <lastmod>2025-08-08T04:28:59.815Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/index.html</loc>
-    <lastmod>2025-08-08T04:28:59.815Z</lastmod>
+    <lastmod>2025-08-09T04:02:31.859Z</lastmod>
   </url>
 </urlset>
