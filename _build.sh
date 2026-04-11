@@ -13,7 +13,7 @@ get_website_repo_details() {
     jq 
 }
 
-# For larger project websites.
+# For project websites.
 get_website_repo_details project,website > data/projects.json
 
 # For documentation/resource/support websites.
