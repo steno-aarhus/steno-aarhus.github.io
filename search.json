@@ -39,7 +39,7 @@
     "href": "index.html#resources",
     "title": "Welcome!",
     "section": "Resources",
-    "text": "Resources\nThese are websites that contain resources or documentation for doing things at Steno Aarhus.\n\n\ncoding-cafe\n\n\n\nregisters-project-database\n\nSDCA’s project database on Denmark Statistics\n\nresearch\n\nDocumentation on common research activities done within Steno Diabetes Center Aarhus.\n\nukbAid\n\nAid researchers who work on the UKB RAP.\n\n\nNo matching items"
+    "text": "Resources\nThese are websites that contain resources or documentation for doing things at Steno Aarhus.\n\n\ncoding-cafe\n\n\n\nhicd\n\nWebsite for Health in Central Denmark (Helbred i Midt)\n\nregisters-project-database\n\nSDCA’s project database on Denmark Statistics\n\nresearch\n\nDocumentation on common research activities done within Steno Diabetes Center Aarhus.\n\nsdca-theme\n\nTheming and styling base for SDCA websites, including a template to start a website.\n\nukbAid\n\nAid researchers who work on the UKB RAP.\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#groups",
@@ -53,14 +53,14 @@
     "href": "index.html#projects",
     "title": "Welcome!",
     "section": "Projects",
-    "text": "Projects\nThese are larger projects that span several years that researchers have individual research projects on.\n\n\ncgm-ap\n\nNational afprøvning af glukosesensorer til type 2-diabetes: Afprøvning af sensorer i almen praksis\n\ncomp-dm\n\nCOMP-DM\n\ndarter-project\n\nDenmark Statistics registers for the project: Interplay between diabetes and intergenerational transmission of health determinants over the life course\n\nevakom\n\nEffektevaluering af kommunale sundhedstilbud til borgere med Type 2-Diabetes\n\ninternationalization\n\nBuilding greater connection with Latin America and Steno Aarhus.\n\nnetvaerk-projektet\n\nAlmen praksis diabetesnetværk\n\nprodiap\n\nPRODIAP: Diabetes spørgeskema til personer med type 2-diabetes i almen praksis\n\nspoerg-aarsstatus\n\nSpørg til årsstatus: Tarmkræftscreening som en del af diabetesomsorgen\n\nsteno-free\n\nEt projekt med fokus på tidlig implementering af teknologi til voksne med nykonstateret type 1 diabetes.\n\nsteno-voice\n\nStenoVoice er et forskningsprojekt, der sigter mod at undersøge, hvordan vokale biomarkører kan bruges til at vurdere risikoen for hjerte-kar-sygdomme, neuropati og diabetes distress hos personer med diabetes.\n\n\nNo matching items"
+    "text": "Projects\nThese are larger projects that span several years that researchers have individual research projects on.\n\n\ncgm-ap\n\nNational afprøvning af glukosesensorer til type 2-diabetes: Afprøvning af sensorer i almen praksis\n\ncomp-dm\n\nCOMP-DM\n\ndarter-project\n\nDenmark Statistics registers for the project: Interplay between diabetes and intergenerational transmission of health determinants over the life course\n\neot2d\n\n\n\nevakom\n\nEffektevaluering af kommunale sundhedstilbud til borgere med Type 2-Diabetes\n\ninternationalization\n\nBuilding greater connection with Latin America and Steno Aarhus.\n\nnetvaerk-projektet\n\nAlmen praksis diabetesnetværk\n\nprodiap\n\nPRODIAP: Diabetes spørgeskema til personer med type 2-diabetes i almen praksis\n\nspoerg-aarsstatus\n\nSpørg til årsstatus: Tarmkræftscreening som en del af diabetesomsorgen\n\nsteno-free\n\nEt projekt med fokus på tidlig implementering af teknologi til voksne med nykonstateret type 1 diabetes.\n\nsteno-voice\n\nStenoVoice er et forskningsprojekt, der sigter mod at undersøge, hvordan vokale biomarkører kan bruges til at vurdere risikoen for hjerte-kar-sygdomme, neuropati og diabetes distress hos personer med diabetes.\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#research-projects",
     "href": "index.html#research-projects",
     "title": "Welcome!",
     "section": "Research Projects",
-    "text": "Research Projects\nThese are individual research projects, most of which don’t have their own website. Rather, this points to the GitHub repository for the project.\n\n\nlega\n\nSubstituting meat, poultry, and fish with legumes and risk of gallbladder diseases in the UK Biobank\n\nlegliv\n\nSubstitution of red meat with legumes and risk of primary liver cancer in UK Biobank participants: A prospective cohort study\n\nleha\n\nLegume consumption and hepatobiliary disease in the UK Biobank.\n\n\nNo matching items"
+    "text": "Research Projects\nThese are individual research projects, most of which don’t have their own website. Rather, this points to the GitHub repository for the project.\n\n\nlega\n\nSubstituting meat, poultry, and fish with legumes and risk of gallbladder diseases in the UK Biobank\n\nlegliv\n\nSubstitution of red meat with legumes and risk of primary liver cancer in UK Biobank participants: A prospective cohort study\n\nleha\n\nLegume consumption and hepatobiliary disease in the UK Biobank.\n\nsesmm\n\nUK Biobank Project\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#software",
