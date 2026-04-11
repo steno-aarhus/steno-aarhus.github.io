@@ -14,7 +14,7 @@ get_website_repo_details() {
 }
 
 # For larger project websites.
-get_website_repo_details website,project > data/projects.json
+get_website_repo_details project,website > data/projects.json
 
 # For documentation/resource/support websites.
 get_website_repo_details resource,website > data/resources.json
