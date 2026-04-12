@@ -67,7 +67,7 @@
     "href": "index.html#software",
     "title": "Welcome!",
     "section": "Software",
-    "text": "Software\nThese are software projects developed by those at Steno Aarhus.\n\n\nosdc\n\nOpen-Source Diabetes Classifier: an R package to classify diabetes status in Danish registers\n\nukbAid\n\nAid researchers who work on the UKB RAP.\n\n\nNo matching items"
+    "text": "Software\nThese are software projects developed by those at Steno Aarhus.\n\n\nfakeregs\n\nA collection of scripts to synthesize register data and run a data processing pipeline to illustrate the most common tasks encountered when conducting register-based research\n\nosdc\n\nOpen-Source Diabetes Classifier: an R package to classify diabetes status in Danish registers\n\nukbAid\n\nAid researchers who work on the UKB RAP.\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#events",
