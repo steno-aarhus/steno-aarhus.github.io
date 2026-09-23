@@ -9,7 +9,7 @@ To add your project to the listing on the landing page, the project must:
 
 1) Be a repository in the steno-aarhus organisation.
 2) Contain one of the following topic pairs (which can be seen in
-   [_build.sh](_build.sh)):
+   [_build.sh](_build.sh)) to your repository's "About" section:
    - For project websites: project, website
    - For documentation/resource/support websites: resource, website
    - For software projects: software, website
@@ -21,3 +21,5 @@ To add your project to the listing on the landing page, the project must:
 >
 > If you would like an external repository or website to be linked on the page,
 > please add it to the [index.qmd](index.qmd) and make a pull request.
+
+The website is regenerated every night, so check that your repository has been added the day after you've added the topics.
