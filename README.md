@@ -10,12 +10,12 @@ To add your project to the listing on the landing page, the project must:
 1) Be a repository in the steno-aarhus organisation.
 2) Contain one of the following topic pairs (which can be seen in
    [_build.sh](_build.sh)) to your repository's "About" section:
-   - For project websites: project, website
-   - For documentation/resource/support websites: resource, website
-   - For software projects: software, website
-   - For event websites: event, website
-   - For group websites: group, website
-   - For individual research projects: research-project
+   - For project websites: `project`, `website`
+   - For documentation/resource/support websites: `resource`, `website`
+   - For software projects: `software`, `website`
+   - For event websites: `event`, `website`
+   - For group websites: `group`, `website`
+   - For individual research projects: `research-project`
 
 > [!NOTE]
 >
