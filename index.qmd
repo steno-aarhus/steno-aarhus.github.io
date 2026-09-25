@@ -33,25 +33,23 @@ listing:
 
 ::: {.callout-note appearance="minimal"}
 These pages are targeted to researchers, PhD students, and external
-collaborators at Steno Aarhus. If you are looking for information about
-the Steno Diabetes Center Aarhus that is aimed at the general public,
-please visit the [Steno Diabetes Center Aarhus
-website](https://www.stenoaarhus.dk/).
+collaborators at Steno Aarhus. If you are looking for information about the
+Steno Diabetes Center Aarhus that is aimed at the general public, please visit
+the [Steno Diabetes Center Aarhus website](https://www.stenoaarhus.dk/).
 :::
 
 ## Resources
 
-These are websites that contain resources or documentation for doing
-things at Steno Aarhus.
+These are websites that contain resources or documentation for doing things at
+Steno Aarhus.
 
 ::: {#resources}
 :::
 
 ## Groups
 
-These are websites for topic-specific groups that run events or
-activities as well as providing a space to get help and having
-discussions.
+These are websites for topic-specific groups that run events or activities as
+well as providing a space to get help and having discussions.
 
 ::: {#groups}
 :::
@@ -66,9 +64,8 @@ individual research projects on.
 
 ## Research Projects
 
-These are individual research projects, most of which don't have their
-own website. Rather, this points to the GitHub repository for the
-project.
+These are individual research projects, most of which don't have their own
+website. Rather, this points to the GitHub repository for the project.
 
 ::: {#research-projects}
 :::
@@ -82,8 +79,8 @@ These are software projects developed by those at Steno Aarhus.
 
 ## Events
 
-These are websites for events that are either upcoming or have already
-been completed.
+These are websites for events that are either upcoming or have already been
+completed.
 
 ::: {#events}
 :::
@@ -92,40 +89,40 @@ been completed.
 
 ::: callout-note
 Is your project not listed here? Let us know by opening an
-[issue](https://github.com/steno-aarhus/steno-aarhus.github.io/issues/new)
-and giving us the link to your project!
+[issue](https://github.com/steno-aarhus/steno-aarhus.github.io/issues/new) and
+giving us the link to your project!
 :::
 
 [DP-Next](https://dp-next.github.io/)
 
-:   DP-Next is a project aimed at developing a sustainably effective
-    strategy for prevention of Type 2 Diabetes in Denmark, Greenland and
-    the Faroe Islands.
+:   DP-Next is a project aimed at developing a sustainably effective strategy
+    for prevention of Type 2 Diabetes in Denmark, Greenland and the Faroe
+    Islands.
 
 [ON-LiMiT](https://onlimit.dk/)
 
-:   ON LiMiT (Optimal Non-pharmacological LifeStyle Modifications in
-    people with Type 2 diabetes), is a large randomized controlled
-    intervention study, conducted in collaboration with the Steno
-    Diabetes Centre in Aarhus, Odense and Copenhagen, as well as the
-    University of Copenhagen and Bispebjerg Hospital. The trial aims to
-    investigate whether it is possible to achieve and maintain remission
-    of type 2 diabetes through weight loss and lifestyle changes.
+:   ON LiMiT (Optimal Non-pharmacological LifeStyle Modifications in people with
+    Type 2 diabetes), is a large randomized controlled intervention study,
+    conducted in collaboration with the Steno Diabetes Centre in Aarhus, Odense
+    and Copenhagen, as well as the University of Copenhagen and Bispebjerg
+    Hospital. The trial aims to investigate whether it is possible to achieve
+    and maintain remission of type 2 diabetes through weight loss and lifestyle
+    changes.
 
 [Seedcase Project](https://seedcase-project.org/)
 
-:   The Seedcase Project builds software that will support you in
-    structuring and documenting your data, being able to browse and
-    share it, to tending to projects using the data.
+:   The Seedcase Project builds software that will support you in structuring
+    and documenting your data, being able to browse and share it, to tending to
+    projects using the data.
 
 ## External groups
 
 [Machine learning with a clinical purpose](https://hulmanlab.org/)
 
-:   This is an interdisciplinary researcher group in machine learning
-    and clinical prediction at Steno Diabetes Center Aarhus, affiliated
-    to the Department of Public Health at Aarhus University, Denmark. We
-    share a passion for data science and believe that applying machine
-    learning methods to multimodal data from epidemiological cohorts and
-    the healthcare sector can provide clinical insights and more
-    comprehensive profiling of disease risk.
+:   This is an interdisciplinary researcher group in machine learning and
+    clinical prediction at Steno Diabetes Center Aarhus, affiliated to the
+    Department of Public Health at Aarhus University, Denmark. We share a
+    passion for data science and believe that applying machine learning methods
+    to multimodal data from epidemiological cohorts and the healthcare sector
+    can provide clinical insights and more comprehensive profiling of disease
+    risk.
