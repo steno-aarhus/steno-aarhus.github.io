@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "For questions about Steno Aarhus in general, please contact either:\n\nInger Hornbech (inger.hornbech@rm.dk): Secretary\nJulie Knudsen (julie.knudsen@rm.dk): Research secretary\n\nFor questions about this or any other Steno GitHub website, about Steno GitHub in general, or if you want to setup a new Steno GitHub website, please contact:\n\nLuke W. Johnston (lwjohnst@clin.au.dk): Team Leader of the Seedcase Project.\nSigne Kirk Brødbæk (signekb@clin.au.dk): Research software engineer in the Seedcase Project."
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About",
-    "section": "",
-    "text": "For questions about Steno Aarhus in general, please contact either:\n\nInger Hornbech (inger.hornbech@rm.dk): Secretary\nJulie Knudsen (julie.knudsen@rm.dk): Research secretary\n\nFor questions about this or any other Steno GitHub website, about Steno GitHub in general, or if you want to setup a new Steno GitHub website, please contact:\n\nLuke W. Johnston (lwjohnst@clin.au.dk): Team Leader of the Seedcase Project.\nSigne Kirk Brødbæk (signekb@clin.au.dk): Research software engineer in the Seedcase Project."
-  },
-  {
-    "objectID": "about.html#ownership",
-    "href": "about.html#ownership",
-    "title": "About",
-    "section": "Ownership",
-    "text": "Ownership\nThe Steno Aarhus GitHub Organisation has four people with “owner” roles, meaning they have full administrative access to everything in the organisation. These people are:\n\nDaniel Ibsen (dbi@ph.au.dk)\nJulie Knudsen (julie.knudsen@rm.dk)\nLuke W. Johnston (lwjohnst@clin.au.dk)\nSigne Kirk Brødbæk (signekb@clin.au.dk)"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome!",
@@ -82,6 +61,27 @@
     "title": "Welcome!",
     "section": "External groups",
     "text": "External groups\n\nMachine learning with a clinical purpose\n\nThis is an interdisciplinary researcher group in machine learning and clinical prediction at Steno Diabetes Center Aarhus, affiliated to the Department of Public Health at Aarhus University, Denmark. We share a passion for data science and believe that applying machine learning methods to multimodal data from epidemiological cohorts and the healthcare sector can provide clinical insights and more comprehensive profiling of disease risk."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "For questions about Steno Aarhus in general, please contact either:\n\nInger Hornbech (inger.hornbech@rm.dk): Secretary\nJulie Knudsen (julie.knudsen@rm.dk): Research secretary\n\nFor questions about this or any other Steno GitHub website, about Steno GitHub in general, or if you want to setup a new Steno GitHub website, please contact:\n\nLuke W. Johnston (lwjohnst@clin.au.dk): Team Leader of the Seedcase Project.\nSigne Kirk Brødbæk (signekb@clin.au.dk): Research software engineer in the Seedcase Project."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "",
+    "text": "For questions about Steno Aarhus in general, please contact either:\n\nInger Hornbech (inger.hornbech@rm.dk): Secretary\nJulie Knudsen (julie.knudsen@rm.dk): Research secretary\n\nFor questions about this or any other Steno GitHub website, about Steno GitHub in general, or if you want to setup a new Steno GitHub website, please contact:\n\nLuke W. Johnston (lwjohnst@clin.au.dk): Team Leader of the Seedcase Project.\nSigne Kirk Brødbæk (signekb@clin.au.dk): Research software engineer in the Seedcase Project."
+  },
+  {
+    "objectID": "about.html#ownership",
+    "href": "about.html#ownership",
+    "title": "About",
+    "section": "Ownership",
+    "text": "Ownership\nThe Steno Aarhus GitHub Organisation has four people with “owner” roles, meaning they have full administrative access to everything in the organisation. These people are:\n\nDaniel Ibsen (dbi@ph.au.dk)\nJulie Knudsen (julie.knudsen@rm.dk)\nLuke W. Johnston (lwjohnst@clin.au.dk)\nSigne Kirk Brødbæk (signekb@clin.au.dk)"
   },
   {
     "objectID": "LICENSE.html",
