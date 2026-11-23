@@ -4,12 +4,9 @@ title: "About"
 
 ## Contact
 
-For questions about Steno Aarhus in general, please contact either:
+For questions about Steno Aarhus in general, please contact:
 
-- Inger Hornbech ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}):
-  Secretary
-- Julie Knudsen ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}):
-  Research secretary
+- Team Sekretariat & HR ([auh.sdca.teamSHR@rm.dk](mailto:auh.sdca.teamshr@rm.dk){.email})
 
 For questions about this or any other Steno GitHub website, about Steno GitHub
 in general, or if you want to setup a new Steno GitHub website, please contact:
